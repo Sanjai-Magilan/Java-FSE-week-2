@@ -16,7 +16,6 @@
         <property
                 name="repository"
                 ref="bookRepository"/>
-
     </bean>
 
 </beans>
