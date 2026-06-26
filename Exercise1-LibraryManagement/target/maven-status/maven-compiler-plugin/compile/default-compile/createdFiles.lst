@@ -1,0 +1,3 @@
+com/library/LibraryManagement/repository/BookRepository.class
+com/library/LibraryManagement/LibraryManagementApplication.class
+com/library/LibraryManagement/service/BookService.class
