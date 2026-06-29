@@ -1,9 +1,6 @@
 package com.cognizant.orm_learn.model;
 
-import jakarta.persistence.Column;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name = "country")
@@ -34,6 +31,6 @@ public class Country {
 
     @Override
     public String toString() {
-        return "Country [code=" + code + ", name=" + name + "]";
+        return "Country{" + "code='" + code + '\'' + ", name='" + name + '\'' + '}';
     }
 }
