@@ -1,4 +1,4 @@
-package com.cognizant.spring_learn;
+package com.cognizant.spring_learn.model;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

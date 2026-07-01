@@ -7,7 +7,7 @@
        https://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="country"
-          class="com.cognizant.spring_learn.Country">
+          class="com.cognizant.spring_learn.model.Country">
 
         <property name="code"
                   value="IN"/>
@@ -16,5 +16,5 @@
                   value="India"/>
 
     </bean>
-
+d
 </beans>
